@@ -1,0 +1,25 @@
+'EDL':
+  title: 'title'
+  link: 'link'
+  author: 'authors'
+  url: 'http://ieeexplore.ieee.org/rss/TOC55.XML'
+
+'APE':
+  title: 'title'
+  namespace:
+    'dc': 'http://purl.org/dc/elements/1.1/'
+    'iop': 'http://iopscience.iop.org'
+  link: 'link'
+  author: 'dc:creator'
+  url: 'http://iopscience.iop.org/1882-0786/?rss=1'
+  pdf_url: 'iop:pdf'
+
+'JJAP':
+  title: 'title'
+  namespace:
+    'dc': 'http://purl.org/dc/elements/1.1/'
+    'iop': 'http://iopscience.iop.org'
+  link: 'link'
+  author: 'dc:creator'
+  url: 'http://iopscience.iop.org/1347-4065/?rss=1'
+  pdf_url: 'iop:pdf'
